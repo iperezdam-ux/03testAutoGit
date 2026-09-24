@@ -23,6 +23,7 @@ namespace _03testAutoGit
         public MainWindow()
         {
             InitializeComponent();
+            //hdddhdhhd
         }
     }
 }
